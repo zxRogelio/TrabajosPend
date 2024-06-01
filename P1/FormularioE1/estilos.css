@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(/P1/FormularioE1/fotos/fondo.jpg);
+}
+.form-contenedor{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1rem;
+    border-color: brown;
+    background-color: wheat;
+    text-align: center;
+}
+.enviar{
+    border-radius: 1rem;
+    background-color: green;
+}
+.Cancelar{
+    border-radius: 1rem;
+    background-color: red;
+}
+.Nombre{
+    background-color: whitesmoke;
+}
+.Preform{
+align-items: center;
+font-weight: bold;
+color: black;
+width: 750px;
+height: 500px;
+background-color: wheat;
+}
