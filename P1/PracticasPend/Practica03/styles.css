@@ -1,9 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
-    background-color: #f4f4f9;
+    background-color: #d0d0d0;
 }
-
 .header-vet {
     background-color: #8cc63f;
     color: #ffffff;
@@ -122,3 +128,4 @@ h2{
     95%{margin-left:-300%;}
 
 }
+
